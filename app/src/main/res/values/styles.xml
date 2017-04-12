@@ -15,7 +15,8 @@
 
     <style name="HintText" parent="TextAppearance.AppCompat.Small">
         <item name="android:textStyle">bold|italic</item>
-        <item name="android:textColor">@android:color/holo_orange_dark</item>
+        <item name="android:textColor">@color/hint</item>
     </style>
 
+    <color name="hint">@android:color/holo_orange_dark</color>
 </resources>
